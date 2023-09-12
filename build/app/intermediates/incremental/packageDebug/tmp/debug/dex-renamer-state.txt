@@ -1,0 +1,4 @@
+#Mon Sep 11 22:30:39 BRT 2023
+base.0=/home/gabrielbassani/projects/f_count_ex/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
